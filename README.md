@@ -11,3 +11,6 @@ You can find the custom model and the model using VGG16 by running the ipynb fil
 To run the model use the drive.py files but to run the nvidia's model use nvidia_drive.py.
 
 You can record your run using video.py
+
+The nividia's pretrained model has been used from
+https://github.com/llSourcell/How_to_simulate_a_self_driving_car
